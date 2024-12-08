@@ -1494,7 +1494,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 73011265}
-  countdownText: {fileID: 0}
+  countdownText: {fileID: 73011265}
   showImage: {fileID: 361480957}
   timeOverImage: {fileID: 327904219}
 --- !u!114 &1285357874
