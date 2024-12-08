@@ -204,8 +204,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\uB2C9\uB124\uC784"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1ca8cf19fdbbc09458434011f9b19d0d, type: 2}
-  m_sharedMaterial: {fileID: -6163201263559535021, guid: 1ca8cf19fdbbc09458434011f9b19d0d,
+  m_fontAsset: {fileID: 11400000, guid: 2adb8f082d40bcb4a97e3f222f9cfc13, type: 2}
+  m_sharedMaterial: {fileID: 1861795833680488955, guid: 2adb8f082d40bcb4a97e3f222f9cfc13,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
